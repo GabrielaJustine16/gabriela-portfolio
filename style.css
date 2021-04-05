@@ -40,3 +40,13 @@
     font-weight: 500;
     margin-left: 25px;
 }
+
+/* home section styling*/
+.home{
+    display: flex;
+    background: url("/Users/gabrielajohnson/Downloads/clement-helardot-95YRwf6CNw8-unsplash.jpg") no-repeat center;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    background-size: cover;
+}
