@@ -44,9 +44,34 @@
 /* home section styling*/
 .home{
     display: flex;
-    background: url("/Users/gabrielajohnson/Downloads/clement-helardot-95YRwf6CNw8-unsplash.jpg") no-repeat center;
+    background: url("/Users/gabrielajohnson/Downloads/cool-background.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
 }
+.home .max-width{
+    margin: auto 0 auto 40px;
+}
+.home .home-content .text-1{
+    font-size: 27px;
+   
+}
+.home .home-content .text-2{
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px;
+}
+.home .home-content .text-3{
+    font-size: 40px;
+    margin: 5px 0;
+}
+.home .home-content .text-3 span{
+    color: crimson;
+    font-weight: 500;
+}
+
+
+
+
